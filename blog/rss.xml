@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>PgDn's Notes Blog</title>
+        <link>https://pgup-code.github.io/PgUp-code.github.io/blog</link>
+        <description>PgDn's Notes Blog</description>
+        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Red Teaming【over】]]></title>
+            <link>https://pgup-code.github.io/PgUp-code.github.io/blog/red-teaming-over</link>
+            <guid>https://pgup-code.github.io/PgUp-code.github.io/blog/red-teaming-over</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[【Red Teaming 完成了】]]></description>
+            <content:encoded><![CDATA[<p>【Red Teaming 完成了】</p>
+<p>路虽远，不过也走出一段了</p>
+<p>收拾收拾，休整下，我们继续如何？</p>
+<p><img decoding="async" loading="lazy" alt="THM-P5ATE9BYNL" src="https://pgup-code.github.io/PgUp-code.github.io/assets/images/THM-P5ATE9BYNL-025f45b93af998efc9415a017bcce22f.png" width="1122" height="794" class="img_ev3q"></p>
+<p><strong>共勉！ 前进！</strong></p>]]></content:encoded>
+            <category>TryHackMe</category>
+        </item>
+        <item>
+            <title><![CDATA[Jr Penetration Tester【over】]]></title>
+            <link>https://pgup-code.github.io/PgUp-code.github.io/blog/jr-penetration-tester-over</link>
+            <guid>https://pgup-code.github.io/PgUp-code.github.io/blog/jr-penetration-tester-over</guid>
+            <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[【Jr Penetration Tester 完成了】]]></description>
+            <content:encoded><![CDATA[<p>【Jr Penetration Tester 完成了】</p>
+<p>经过长时间三天打鱼两天晒网，终于完成了它</p>
+<p>虽然长达一年之久...  不过，最终还是完成了，不是吗</p>
+<p><img decoding="async" loading="lazy" alt="THM-4BK99E0QEA" src="https://pgup-code.github.io/PgUp-code.github.io/assets/images/THM-4BK99E0QEA-e5799c3455c8e5a5af064066752d0c3d.png" width="1122" height="794" class="img_ev3q"></p>
+<p><strong>再接再厉！ 加油！</strong></p>]]></content:encoded>
+            <category>TryHackMe</category>
+        </item>
+    </channel>
+</rss>
