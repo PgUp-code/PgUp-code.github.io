@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[8947],{6600:s=>{s.exports=JSON.parse('{"authors":[{"name":"PgDn","title":"\u6765\u81ea\u8352\u829c\u7684\u4e16\u754c","url":"https://github.com","page":{"permalink":"/blog/authors/pg-dn"},"imageURL":"https://docusaurus.io/img/docusaurus.svg","key":"PgDn","count":2}]}')}}]);
